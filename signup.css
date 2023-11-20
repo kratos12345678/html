@@ -1,0 +1,22 @@
+#first{
+    color: aquamarine
+    ;
+}
+
+
+#first::placeholder{
+
+    color: brown
+    ;
+}
+#last::placeholder{
+
+    color: blue;
+}
+
+
+body{
+
+    background-color: brown;
+    background-image: url(./istockphoto-1248542684-612x612.jpg);
+}
